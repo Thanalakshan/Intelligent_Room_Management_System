@@ -1,6 +1,8 @@
 # Intelligent Room Management System using LabVIEW and DAQmx
 
 This project showcases an Intelligent Room Management System developed using LabVIEW and a DAQmx card. The system automates room conditions by controlling fan speed and light intensity, making it energy-efficient and user-friendly.
+![Room Management System Overview](IMG02.jpeg)
+![System Components](IMG01.jpeg)
 
 ## Features
 
