@@ -33,3 +33,9 @@ This project demonstrates the integration of sensors and control systems for sma
 ## Conclusion
 
 This Intelligent Room Management System provides an effective solution for automating room conditions, improving comfort while conserving energy.
+
+## Download LabVIEW and Related Software
+
+For LabVIEW and related software, please download from the following link:
+
+[Download LabVIEW and Related Software](https://bit.ly/NI-GD)
