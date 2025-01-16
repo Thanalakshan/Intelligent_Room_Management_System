@@ -40,4 +40,4 @@ This Intelligent Room Management System provides an effective solution for autom
 
 For LabVIEW and related software, please download from the following link:
 
-[Download LabVIEW and Related Software](https://bit.ly/NI-GD)
+[Download LabVIEW and Related Software](https://bit.ly/NI-GD](https://drive.google.com/drive/folders/1jUohcvRM-J8mK-jYJxFes5DGygcedIMr?usp=sharing))
